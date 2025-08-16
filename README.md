@@ -9,7 +9,7 @@ This project is a machine learning-based email spam classifier. It uses a traine
 
 ## How to Use
 
-**Go to website:**  
+**Go to website:**  https://email-spam-classifier-dpjt.onrender.com 
 
   Copy and paste the following messages into the app to see predictions.
 
